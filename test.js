@@ -1,0 +1,1 @@
+//<!DOCTYPE html> => syntax for writing html code 
